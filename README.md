@@ -1,6 +1,3 @@
-# activity-room-1-algorithms-programming
-Repository made to store the 1 activity in the classroom about programming and algorithms
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="top"></a>
 <!--
